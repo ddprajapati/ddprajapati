@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilip Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Boneo.se](https://boneo.se/)
-
-- 🤝 I’m looking for help with **GVPCSAA**
+- 🔭 I’m currently working in Helios Solutions as Consultant for [Boneo.se](https://boneo.se/)
 
 - 👨‍💻 All of my projects are available at [https://www.dilipprajapati.com](https://www.dilipprajapati.com)
 
